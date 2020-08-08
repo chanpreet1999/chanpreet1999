@@ -1,8 +1,8 @@
 # Chanpreet Singh (@chanpreet1999)
 
 ## I'm a B.Tech Student!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning everything 🤣.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to learn.
 
 ### Connect with me:
@@ -24,6 +24,9 @@
 <img align="left" alt="CPP" width="29px" src="https://img.icons8.com/ios-filled/48/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="C" width="29px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img align="left" alt="Java" width="29px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img align="left" alt="Ethereum" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1200px-Ethereum_logo_2014.svg.png"/>
+<img align="left" alt="Solidity" width="45px" src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png"/>
+
    
 <br />
 <br />
