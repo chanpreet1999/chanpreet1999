@@ -1,7 +1,7 @@
 # Chanpreet Singh (@chanpreet1999)
 
 ## I'm a B.Tech Student!
-- 🌱 I’m currently learning everything 🤣.
+- 🌱 I’m currently learning everything 😄.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to learn.
 
