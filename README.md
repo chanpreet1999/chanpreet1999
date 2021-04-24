@@ -2,7 +2,7 @@
 
 ## I'm a B.Tech Student!
 - 🌱 I’m currently learning everything 😄.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Staying safe and contributing to the community.
 - ⚡ Fun fact: I love to learn.
 
 ### Connect with me:
