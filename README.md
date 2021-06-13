@@ -1,4 +1,4 @@
-# Chanpreet Singh (@chanpreet1999)
+# Chanpreet Singh 
 
 ## I'm a B.Tech Student!
 - 🌱 I’m currently learning everything 😄.
@@ -7,8 +7,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Chanpreet Singh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Chanpreet Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/chanpreet-singh-chugh-8004ab141/)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/chanpreet1999)
+[<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/chanpreet1999)
 
 <br />
 
@@ -34,9 +35,7 @@
 ---
 ![](https://komarev.com/ghpvc/?username=chanpreet1999)
 
-<img align="left" alt="Chanpreet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chanpreet1999&show_icons=true&hide_border=true" />
 
-<img align="left" alt="Chanpreet's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanpreet1999&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=chanpreet1999&count_private=true&show_icons=true&title_color=FF5733&icon_color=FFBB33&text_color=C0C0C0&bg_color=26466D&include_all_commits=true&hide_rank=true" width="85%" height="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanpreet1999&langs_count=16&theme=highcontrast" width="35%" height="100%"/>
 
-[twitter]: https://twitter.com/chanpreet1999
-[linkedin]: https://www.linkedin.com/in/chanpreet-singh-chugh-8004ab141/
