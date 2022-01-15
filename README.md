@@ -1,9 +1,9 @@
 # Chanpreet Singh 
 
-## I'm a B.Tech Student!
-- 🌱 I’m currently learning everything 😄.
-- 🥅 2021 Goals: Staying safe and contributing to the community.
-- ⚡ Fun fact: I love to learn.
+## I'm a Working Professional!
+- 🌱 I’m currently learning BigData.
+- 🥅 2022 Goals: Staying safe and contributing to the community.
+- ⚡ Fun fact: I love to read, analyse and learn.
 
 ### Connect with me:
 
