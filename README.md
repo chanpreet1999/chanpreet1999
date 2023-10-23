@@ -1,8 +1,8 @@
 # Chanpreet Singh 
 
 ## I'm a Working Professional!
-- 🌱 I’m currently learning BigData.
-- 🥅 2022 Goals: Staying safe and contributing to the community.
+- 🌱 I’m currently learning distributed systems.
+- 🥅 2023 Goals: Staying safe and contributing to the community.
 - ⚡ Fun fact: I love to read, analyse and learn.
 
 ### Connect with me:
