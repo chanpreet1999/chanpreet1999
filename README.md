@@ -2,7 +2,7 @@
 
 ## I'm a Working Professional!
 - 🌱 I’m currently learning distributed systems.
-- 🥅 2023 Goals: Staying safe and contributing to the community.
+- 🥅 Goals: Learning and contributing to the community.
 - ⚡ Fun fact: I love to read, analyse and learn.
 
 ### Connect with me:
